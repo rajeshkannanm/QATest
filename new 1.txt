@@ -1,0 +1,15 @@
+Mainline functions:  Testing the main functions of an application
+Basic Usability: It involves basic usability testing of the system. It checks whether a user can freely navigate through the screens without any difficulties.
+Accessibility:  Checks the accessibility of the system for the user
+Error Conditions: Usage of testing techniques to check for error conditions.  It checks whether suitable error messages are displayed.
+
+Each functionality of the software application is tested by providing appropriate test input, expecting the output and comparing the actual output with the expected output. This testing focuses on checking of user interface, APIs, database, security, client or server application and functionality of the Application Under Test
+
+
+
+Check whether All the links , buttons and other funcitonalities related to the application is working as expected.
+Make sure there is no code break and existing funcitonalities are working as expected
+Validate the generated forms are as per UK Law and there is no deviation or details missing
+
+
+
